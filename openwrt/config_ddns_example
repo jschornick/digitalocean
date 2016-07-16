@@ -1,0 +1,5 @@
+config 'service' 'digitalocean'
+	option 'domain' 'mydomain.net'
+	option 'resource' 'myhostname'
+	option 'api_key' 'YOURAPIKEYGOESHERE'
+	

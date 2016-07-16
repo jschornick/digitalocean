@@ -1,0 +1,5 @@
+An ugly shell library and script for performing DNS updates over Digital Ocean's API.
+
+Requires either jq (Linux) or jsonfilter (OpenWRT) for JSON filtering.
+
+See LICENSING file for licensing details.
